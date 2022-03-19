@@ -1,0 +1,139 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family:'Merriweather', serif;
+}
+/* Header Section */
+.header{
+    margin:150px auto 100px 200px;
+    padding: bottom 30px;
+}
+/* Navbar */
+#navbarNavDropdown{
+    padding-left: 350px;
+ 
+}
+.navbar{
+    padding-top: 1px;
+   padding-left: 45px;
+padding-right: 45px;
+}
+
+.navbar-brand{
+    font-size: 40px;
+}
+.container-fluid{
+    font-size: 25px;
+}
+.form-control{
+    height: 30px;
+    width: 250px;
+    margin-top: 3px;
+}
+.rightnav{
+    float: right;}
+/* top section */
+#top{
+   background-color: #BB9981;
+   color: white;
+   font-size: large;
+}
+.header{
+    margin:120px auto 100px 300px;
+  
+
+}
+.container1{
+    padding-bottom: 80px;
+}
+.cat{
+    padding-bottom: 20px;
+}
+#h1{
+  
+   
+font-family: sans-serif;
+font-size: 3.5rem;
+line-height: 1.5;
+    
+}
+
+  /* Feature Section */
+  .feature-box {
+    padding: 4.5%;
+  }
+  .icon {
+    color:  #BB9981;
+    margin-bottom: 1rem;
+    padding-left: 10px;
+  }
+  
+  .fab fa-apple{
+      margin-right: 6px;
+  }
+  #features {
+    position: relative;
+    padding-left: 45px;
+    padding-right: 45px;
+  }
+  
+  .feature-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .feature-box {
+    padding: 4.5%;
+  }
+  /* Testimonial */
+  #testimonials {
+    background-color: #BB9981;
+  }
+  
+  .testimonial-text {
+    font-size: 3rem;
+    line-height: 1.5;
+  }
+  
+  .testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+  }
+  #testimonials{
+
+  
+  text-align: center;
+  padding-top: 40px;
+  padding-left: 150px;
+  padding-right: 150px;
+  color: white;
+}
+/* Pricing */
+#pricing{
+    padding-top: 100px;
+padding-left: 50px;
+padding-right: 50px
+}
+
+.section-heading{
+    text-align: center;
+font-size: 55px;
+}
+.sectionp{
+    text-align: center;
+    font-size: 22px;
+    padding-top: 10px;
+    padding-bottom:15px
+}
+/* Footer */
+#footer{
+    text-align: center;
+padding-top: 100px;
+padding-bottom: 60px;
+background-color: #BB9981;
+color: white;
+margin-top: 20px;
+}
